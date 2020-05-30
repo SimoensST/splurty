@@ -10,3 +10,5 @@ At the top right of the screen simply click Contribute to add more quotes
 
 ## Tools & Resources
 - [Ruby On Rails](https://rubyonrails.org/)
+- [PostgreSQL](https://www.postgresql.org/)
+- [bootstrap](https://getbootstrap.com/)
